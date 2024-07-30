@@ -1,0 +1,1 @@
+<view><view class="title">用户信息</view><button data-event-opts="{{[['tap',[['goBack',['$event']]]]]}}" bindtap="__e">返回登录界面</button><button data-event-opts="{{[['tap',[['getInfo',['$event']]]]]}}" bindtap="__e">获得信息</button></view>
